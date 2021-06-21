@@ -12,7 +12,7 @@ Typically **Project** is organized as a set of _UMLModels_, _UMLPackages_, or _U
 
 Many users are confusing the difference between **diagramming or drawing** tools such as Microsoft Visio and **modeling** tools such StarUML or Rational Software Architect. First you need to understand a diagram is not a model.
 
-**Model** or **software model** is a description of any aspect of a software system such as structure, behavior, requirement, and so on. A software model can be represented in textual, mathmatical or visual form. A **Model element** is a building block of a software model.
+**Model** or **software model** is a description of any aspect of a software system such as structure, behavior, requirement, and so on. A software model can be represented in textual, mathematical or visual form. A **Model element** is a building block of a software model.
 
 A **Diagram** is a visual geometric symbolic representation of a software model. A software model can be represented in one or more diagrams with different aspects. For example, a diagram can focus on class hierarchical structure while another diagram can focus on interaction between objects. Diagrams consists of **view elements**, which are visual representations of a **model element**.
 
